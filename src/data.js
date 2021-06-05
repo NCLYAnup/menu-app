@@ -75,7 +75,7 @@ const menu = [
     id: 10,
     title: 'English Breakfast',
     category: 'breakfast',
-    price: 199,
+    price: 399,
     img: 'https://media.istockphoto.com/photos/english-breakfast-picture-id641845826?k=6&m=641845826&s=612x612&w=0&h=hkbzoYR2h3G7QDILxXKx8Rnv6HDLEiDxdLznsbLUTZ0=',
     desc: `Traditionally, the hinger kochuri has a filling made with daals or lentils like urad or chana or toor, `,
   },
